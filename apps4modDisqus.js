@@ -1,5 +1,6 @@
 //<![CDATA[
-var disqus_shortname="Apps4mod";
+var disqus_shortname="http://disqus.com/by/Apps4mod 
+";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
